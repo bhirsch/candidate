@@ -1,0 +1,119 @@
+.mainbody
+{
+  background: #FAFAFA url(images/bg-main-new.png) no-repeat scroll center top;
+}
+
+.ftrwrpr
+{
+  background: #FFFFFF url(images/bg-footer.jpg) no-repeat scroll left top;
+}
+
+/** Primary menu items: Set individual widths by id **/ 
+  #topnav li#about
+  { 
+    width: 14%; 
+    padding: 0;
+    border-left: none; 
+  }
+  #topnav li#staff
+  { 
+    width: 14%; 
+    padding: 0;
+  }
+  #topnav li#issues
+  { 
+    width: 14%; 
+    padding: 0;
+    border-left: 1px solid #012B5B;
+  }
+  #topnav li#legislation
+  { 
+    width: 16%; 
+    padding: 0;
+    border-left: 1px solid #012B5B;
+  }
+  #topnav li#events
+  { 
+    width: 14%; 
+    padding: 0;
+    margin-left: 0px;
+    border-left: 1px solid #012B5B;
+  }
+  #topnav li#news-clips
+  { 
+    width: 16%; 
+    padding: 0;
+    border-left: 1px solid #012B5B;
+  }
+  #topnav li#press-releases
+  { 
+    width: 18%; 
+    padding: 0; 
+    border-left: 1px solid #012B5B;
+  }
+
+/*******************************
+// TEMP ADD BELOW TO SUBTHEME 
+// FOR VIEWS SLIDESHOWS 
+*******************************/
+/*
+#slide-transparency
+{
+  position: absolute;
+  bottom: 0px;
+  width: 160px; 
+  height: 100%;
+  background: #000;
+  filter:alpha(opacity=80);
+  opacity: 0.8;
+  -moz-opacity:0.8;
+  margin: 0;
+}
+
+#slide-content
+{
+  position: absolute;
+  top: 0px;
+  width: 455px; 
+  height: 100%;
+  margin: 0 0 0 515px;
+  overflow: hidden;
+}
+
+.slide-title
+{
+  color: red;
+  width: 100%;
+  font-size: 40px;
+  text-aligh: left;
+}
+
+.slide-body
+{
+  color: white;
+}
+
+.slide-link
+{
+  text-transform: uppercase;
+}
+
+#views_slideshow_singleframe_pager_slideshow_panoramic_1_num-block_1
+{
+  width: 100%;
+  text-align: right;
+}
+
+div.views_slideshow_singleframe_pager a
+{
+  color: #002157;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+div.views_slideshow_singleframe_pager div.stgbtnon a 
+{
+  color: #9d0b0e;
+}
+*/
+
