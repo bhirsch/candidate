@@ -9,16 +9,23 @@
 }
 
 /** Primary menu items: Set individual widths by id **/ 
-  #topnav li#about
+  #topnav li#home
   { 
     width: 14%; 
     padding: 0;
     border-left: none; 
   }
+  #topnav li#about
+  { 
+    width: 14%; 
+    padding: 0;
+    border-left: 1px solid #012B5B;
+  }
   #topnav li#staff
   { 
     width: 14%; 
     padding: 0;
+    border-left: 1px solid #012B5B;
   }
   #topnav li#issues
   { 
